@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Hi,%20I'm%20Jude&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=AI%20in%20Business%20%7C%20Automation%20%7C%20Web%20Development&descAlignY=58&descSize=18" alt="Hi, I'm Jude" width="100%" />
 
 <a href="https://github.com/jude-bland">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=5FB3D4&center=true&vCenter=true&width=600&lines=MSc+AI+in+Business+student;Helping+small+businesses+automate+the+boring+stuff;Shopify+builds%2C+AI+ad+workflows%2C+MCP+integrations;Learning+how+businesses+really+work+from+the+inside" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=5FB3D4&center=true&vCenter=true&width=600&lines=MSc+AI+in+Business+student;Helping+small+businesses+automate+the+boring+stuff;Shopify+builds%2C+marketing+automation%2C+MCP+integrations;Learning+how+businesses+really+work+from+the+inside" alt="Typing intro" />
 </a>
 
 <p>
@@ -25,7 +25,7 @@ I'm Jude, an **MSc AI in Business** student who works with small companies to ma
 My background is in sales and history, so I come at technology from the business side first. I care less about the shiniest tool and more about the question every owner actually asks: *will this save me time or make me money?*
 
 - 🎓 Finishing my **MSc in AI in Business**
-- 🔭 Currently working on **AI-assisted advertising for Amach**, a fashion brand on Shopify
+- 🔭 Currently working on **marketing automation for Amach**, a fashion brand on Shopify
 - 🌱 Learning **how the inner parts of a business fit together**: operations, marketing, finance and governance
 - 🤝 Open to **automation and website projects** with small businesses
 - 💬 Ask me about **MCP servers, Shopify, and using Claude for real business work**
@@ -39,8 +39,8 @@ My background is in sales and history, so I come at technology from the business
 | ⚙️ **Automation** | Connecting tools with MCP servers and APIs so reports, admin and marketing tasks run themselves |
 | 📊 **Internal tools & dashboards** | Replacing spreadsheet sprawl with one hub the whole team can search, filter and report from |
 | 🛍️ **E-commerce & websites** | Shopify store builds, site reviews, product pages, SEO and conversion fixes |
-| 📣 **AI-powered marketing** | Ad workflows linking Shopify and Meta / Google Ads, with copy drafted by AI and approved by a human |
-| 🛡️ **Responsible AI** | Helping teams adopt AI with proper governance, risk and policy checks in place |
+| 📣 **Marketing automation** | Connecting Shopify to Meta and Google Ads so campaign setup, budget checks and performance reporting run themselves, while the decisions stay with the business |
+| 🛡️ **AI governance** | Assessing AI use cases and rating them against the EU AI Act and other relevant legislation, so teams know what's safe to build |
 
 ---
 
@@ -64,16 +64,16 @@ My background is in sales and history, so I come at technology from the business
 
 ### 📌 Featured work
 
-#### 🛍️ Amach — Shopify store, website development & AI ad automation
+#### 🛍️ Amach: Shopify store, website development & marketing automation
 Amach is an independent fashion brand from Derry that recently launched online with Shopify.
 - Reviewed the live store page by page and produced a prioritised improvement plan for the founder: fixes, copy, product pages and SEO
 - Set a design direction for a cleaner, more premium storefront and consistent product photography
-- Designing an AI advertising workflow: **Shopify MCP** pulls bestsellers and new arrivals, Claude drafts ad variations, and campaigns are created **paused in Meta Ads** for human review, with weekly performance summaries
+- Building an automated marketing workflow: **Shopify MCP** pulls sales data to show which products are worth promoting, campaigns are set up **paused in Meta Ads** for review, and weekly performance summaries flag what to scale or stop
 - Built in guardrails from day one: spending limits and human approval before anything goes live
 
 `Shopify` `Meta Ads` `Google Shopping` `MCP` `Claude`
 
-#### ⚡ Essential Electric — Project Hub for commissioning & QA/QC
+#### ⚡ Essential Electric: Project Hub for commissioning & QA/QC
 Essential Electric is an electrical contractor delivering data centre projects. Their quality and commissioning work was running across nine separate spreadsheet trackers, with data copied in by hand from scheduling and BIM tools. I built a working prototype of a single **Project Hub** to bring it all into one place.
 - Organised the hub into four areas: **Preconstruction, Construction, Quality & Commissioning**, and a company **Library**
 - Turned the project trackers into searchable, filterable tables with drill-down detail, including the FWT tracker, construction planner, walkdown and document trackers
@@ -84,10 +84,13 @@ Essential Electric is an electrical contractor delivering data centre projects. 
 
 `HTML/JS` `Dashboards` `Data cleaning` `Autodesk Construction Cloud` `Process automation`
 
-#### 🛡️ Credo AI at Version 1 — AI governance implementation
-Assisted with implementing **Credo AI**, an AI governance platform, at Version 1, helping put structure around how AI systems are assessed, documented and monitored for risk and compliance.
+#### 🛡️ Version 1: automating AI governance with Credo AI
+At Version 1, employees submit ideas for how they'd like to use AI in their work. I assessed these use cases and put them through **Credo AI**, an AI governance platform, to automate the governance process.
+- Each use case is rated 🟢 **Green**, 🟠 **Amber** or 🔴 **Red** depending on the level of governance it requires
+- Ratings are based on the **EU AI Act** and other relevant legislation
+- Turns a manual review into a consistent, repeatable triage, so low-risk ideas move quickly and higher-risk ones get the scrutiny they need
 
-`AI governance` `Responsible AI` `Credo AI`
+`AI governance` `EU AI Act` `Risk assessment` `Credo AI`
 
 ---
 
