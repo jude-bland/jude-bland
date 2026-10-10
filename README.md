@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:c9ecff,50:9fd6fa,100:6cbcf0&text=Hi,%20I'm%20Jude&fontColor=0b2545&fontSize=46&fontAlignY=36&desc=AI%20in%20Business%20%7C%20Automation%20%7C%20Web%20Development&descAlignY=58&descSize=18" alt="Hi, I'm Jude" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:c9ecff,50:9fd6fa,100:6cbcf0&text=Hi,%20I'm%20Jude&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=AI%20in%20Business%20%7C%20Automation%20%7C%20Web%20Development&descAlignY=58&descSize=18" alt="Hi, I'm Jude" width="100%" />
 
 <a href="https://github.com/jude-bland">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=5FB3D4&center=true&vCenter=true&width=600&lines=MSc+AI+in+Business+student;Helping+small+businesses+automate+the+boring+stuff;Shopify+builds%2C+marketing+automation%2C+MCP+integrations;Learning+how+businesses+really+work+from+the+inside" alt="Typing intro" />
