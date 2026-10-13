@@ -25,7 +25,7 @@ I'm Jude, an **MSc AI in Business** student who works with small companies to ma
 My background is in sales and history, so I come at technology from the business side first. I care less about the shiniest tool and more about the question every owner actually asks: *will this save me time or make me money?*
 
 - 🎓 Finishing my **MSc in AI in Business**
-- 🔭 Currently working on **marketing automation for Amach**, a fashion brand on Shopify
+- 🔭 Currently working on **marketing automation for AMACH**, a fashion brand on Shopify
 - 🌱 Learning **how the inner parts of a business fit together**: operations, marketing, finance and governance
 - 🤝 Open to **automation and website projects** with small businesses
 - 💬 Ask me about **MCP servers, Shopify, and using Claude for real business work**
@@ -64,8 +64,8 @@ My background is in sales and history, so I come at technology from the business
 
 ### 📌 Featured work
 
-#### 🛍️ Amach: Shopify store, website development & marketing automation
-Amach is an independent fashion brand from Derry that recently launched online with Shopify.
+#### 🛍️ AMACH: Shopify store, website development & marketing automation
+AMACH is an independent fashion brand from Derry that recently launched online with Shopify.
 - Reviewed the live store page by page and produced a prioritised improvement plan for the founder: fixes, copy, product pages and SEO
 - Set a design direction for a cleaner, more premium storefront and consistent product photography
 - Building an automated marketing workflow: **Shopify MCP** pulls sales data to show which products are worth promoting, campaigns are set up **paused in Meta Ads** for review, and weekly performance summaries flag what to scale or stop
